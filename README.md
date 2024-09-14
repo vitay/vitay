@@ -15,6 +15,8 @@ I am Julien Vitay, researcher in Artificial Intelligence and Computational Neuro
 
 ### Publishing tools
 
+Recent templates made with [Quarto](quarto.org)
+
 * [quarto-presentation](https://github.com/vitay/quarto-presentation) : template for quarto reveal.js presentations.
 * [quarto-report](https://github.com/vitay/quarto-report) : template for quarto reports.
 * [quarto-website](https://github.com/vitay/quarto-website) : template for quarto websites.
