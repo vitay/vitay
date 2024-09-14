@@ -11,11 +11,17 @@ I am Julien Vitay, researcher in Artificial Intelligence and Computational Neuro
 
 ### Computational neuroscience
 
+Code from some papers. See <https://github.com/hamkerlab> for more repos.
+
+* [Schmid, Vitay and Hamker, 2019](https://github.com/vitay/CerebellumForwardModel) : Forward Models in the Cerebellum using Reservoirs and Perturbation Learning. CCN 2019.
+* [Vitay, 2016](https://github.com/vitay/ReScience-submission/tree/vitay) : Robust timing and motor patterns by taming chaos in recurrent neural networks. Rescience, 2(1).
+* [Vitay and Hamker, 2014](https://github.com/vitay/bg-timing) : Timing and expectation of reward: a neuro-computational model of the afferents to the ventral tegmental area. Frontiers in Neurorobotics, 8:4.
+
 ### Teaching
 
 * [Course Deep RL](https://github.com/vitay/course-deeprl) : materials for the course "Deep Reinforcement Learning".
 * [Notebooks Deep RL](https://github.com/vitay/notebooks-deeprl) : Jupyter notebooks for the course "Deep Reinforcement Learning".
-* [Course Neurocomputing](https://github.com/vitay/course-neurocomputing) : materials for the course "Neuroconputing".
+* [Course Neurocomputing](https://github.com/vitay/course-neurocomputing) : materials for the course "Neurocomputing".
 
 ### Publishing tools
 
