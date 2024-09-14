@@ -9,11 +9,15 @@ I am Julien Vitay, researcher in Artificial Intelligence and Computational Neuro
 
 ### Artificial Intelligence
 
+* [Mesh predictor](https://github.com/hamkerlab/ML-Karoprod-MeshPredictor) : predicting FEM meshes using implicit representations. BMBF project ML@Karoprod.
+* [YoutubeFacesDB](https://github.com/vitay/YouTubeFacesDB) : Python module allowing to access the Youtube Faces database.
+  
 ### Computational neuroscience
 
 Code from some papers. See <https://github.com/hamkerlab> for more repos.
 
 * [Schmid, Vitay and Hamker, 2019](https://github.com/vitay/CerebellumForwardModel) : Forward Models in the Cerebellum using Reservoirs and Perturbation Learning. CCN 2019.
+* [Vitay, 2017](https://github.com/vitay/habilitation) : Habilitation in Computer Science Technische Universität Chemnitz.
 * [Vitay, 2016](https://github.com/vitay/ReScience-submission/tree/vitay) : Robust timing and motor patterns by taming chaos in recurrent neural networks. Rescience, 2(1).
 * [Vitay and Hamker, 2014](https://github.com/vitay/bg-timing) : Timing and expectation of reward: a neuro-computational model of the afferents to the ventral tegmental area. Frontiers in Neurorobotics, 8:4.
 
