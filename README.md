@@ -9,7 +9,7 @@ I am Julien Vitay, researcher in Artificial Intelligence and Computational Neuro
 
 ### Artificial Intelligence
 
-* [Deep Reinforcement Learning](https://github.com/vitay/deeprl) : webbook on deep reinrforcement learning.
+* [Deep Reinforcement Learning](https://github.com/vitay/deeprl) : webbook on deep reinforcement learning.
 * [Water Tank](https://github.com/vitay/water-tank) : library for plastic reservoir computing.
 * [Mesh predictor](https://github.com/hamkerlab/ML-Karoprod-MeshPredictor) : predicting FEM meshes using implicit representations. BMBF project ML@Karoprod.
 * [YoutubeFacesDB](https://github.com/vitay/YouTubeFacesDB) : Python module allowing to access the Youtube Faces database.
