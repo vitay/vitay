@@ -26,9 +26,10 @@ Code from some papers. See <https://github.com/hamkerlab> for more repos.
 ### Teaching
 
 * [Course Deep RL](https://github.com/vitay/course-deeprl) : materials for the course "Deep Reinforcement Learning".
-* [Notebooks Deep RL](https://github.com/vitay/notebooks-deeprl) : Jupyter notebooks for the course "Deep Reinforcement Learning".
 * [Course Neurocomputing](https://github.com/vitay/course-neurocomputing) : materials for the course "Neurocomputing".
+* [Notebooks Deep RL](https://github.com/vitay/notebooks-deeprl) and [Notebooks Neurocomputing](https://github.com/vitay/notebooks-neurocomputing) : Jupyter notebooks for the courses.
 
+  
 ### Publishing tools
 
 Recent templates made with [Quarto](https://quarto.org/):
